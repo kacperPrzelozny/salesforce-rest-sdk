@@ -9,7 +9,7 @@
         "ramsey/uuid": "^4.7.6",
         "doctrine/collections": "^2.2",
         "symfony/cache": "^7",
-        "psr/log": "^3",
+        "psr/log": "1.1.4",
         "symfony/expression-language": "^7",
         "jms/metadata": "^2.8"
     },
